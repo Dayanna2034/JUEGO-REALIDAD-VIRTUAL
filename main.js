@@ -214,4 +214,3 @@ function animate() {
   requestAnimationFrame(animate);
 }
 animate();
-renderer.setAnimationLoop(animate);
